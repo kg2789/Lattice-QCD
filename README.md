@@ -3,7 +3,7 @@ Pure Gauge Lattice QCD Code
 
 This is a Lattice QCD Code that I created for Pure Gauge Theory using Monte Carlo Methods for SU(3).
 
-Problem1Final is the equilibirum method that I have implemented.
+Problem1Final is the equilibirum method that I have implemented which equilibriates a lattice from a cold start and then calculates plaquette values.
 
 HitMethod is essentially Problem1Final, but works faster and implements the Hit Method which equilibriates the lattice with respect to it's neighbours.
 
