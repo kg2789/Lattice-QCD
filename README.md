@@ -13,4 +13,4 @@ FiveDmat and Final2Dmat are classes I use to help store various variables.
 
 Comments are written in the code to make it more readable. 
 
-This is for personal purposes so not very well made.
+This is for personal (and research) purposes so not very well made.
